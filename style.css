@@ -1,0 +1,50 @@
+.divInsignias{
+  
+  padding:15px;
+  border:1px solid black;
+  background-color: #777;
+}
+h2{
+  color:white;
+}
+section{
+  webkit-box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59); 
+  box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59);
+  margin-left:auto;/*centro */
+  margin-right:auto; /*centro */
+  display: block; /* para que os itens fiquem centralizados */
+  max-width:500px;
+  margin-top:100px;
+  background-color: white;
+  padding:15px;
+}
+body{
+  background-color:#00bcd4;
+    font-family:roboto;
+}
+
+img{
+  margin-left:auto;
+  margin-right:auto;
+  display: block;
+  margin:auto
+  height:150px;
+  width:150px;  
+  border-radius:100%;
+  transform:translateY(-50px);
+  background-repeat:no-repeat;
+  
+}
+header{
+  background-image:url("https://www.10wallpaper.com/wallpaper/2560x1600/1112/football_park-Football_Related_Desktop_Pictures_Wallpaper_2560x1600.jpg");
+  background-size:cover;
+  height:100px;
+}
+
+.divSociais{
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70px;
+}
